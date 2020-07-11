@@ -1,0 +1,17 @@
+{
+  "buildFiles": [
+    "/usr/lib/android-sdk/cmake/3.10.2.4988404/android.toolchain.cmake",
+    "/home/daniel/Pulled/minimal-android-project/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/usr/lib/android-sdk/cmake/3.10.2.4988404/bin/cmake --build /home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/release/mips --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-mips": {
+      "artifactName": "hello-jni",
+      "buildCommand": "/usr/lib/android-sdk/cmake/3.10.2.4988404/bin/cmake --build /home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/release/mips --target hello-jni",
+      "abi": "mips",
+      "output": "/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/mips/libhello-jni.so"
+    }
+  }
+}

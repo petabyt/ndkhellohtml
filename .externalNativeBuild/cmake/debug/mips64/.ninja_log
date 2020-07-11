@@ -1,0 +1,23 @@
+# ninja log v5
+0	271	1594442816	CMakeFiles/hello-jni.dir/hello-jni.c.o	b5f853cd13119799
+271	346	1594442816	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	cf2aec74be18ca75
+1	22	1594442970	build.ninja	f7212c0298da9c5b
+0	33	1594442970	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+33	46	1594442970	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	53	1594443645	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+0	24	1594443688	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+24	39	1594443688	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	31	1594443700	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+31	47	1594443700	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	36	1594443727	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+36	50	1594443727	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	40	1594443781	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+40	53	1594443781	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+1	38	1594443797	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+38	50	1594443797	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	27	1594446223	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+27	44	1594446223	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	73	1594447481	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+73	91	1594447481	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7
+0	31	1594447729	CMakeFiles/hello-jni.dir/hello-jni.c.o	7aff40c0f41490c0
+31	42	1594447729	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/mips64/libhello-jni.so	a4d8d70fcb35edb7

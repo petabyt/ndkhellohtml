@@ -1,0 +1,22 @@
+# ninja log v5
+0	102	1594442816	CMakeFiles/hello-jni.dir/hello-jni.c.o	6ecf55b8277f19d7
+102	143	1594442816	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	bd1900aa5b238cb4
+0	15	1594442970	build.ninja	e1a9b9b095724d41
+0	18	1594442970	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+18	28	1594442970	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	21	1594443688	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+21	35	1594443688	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	20	1594443700	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+20	31	1594443700	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	21	1594443727	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+21	29	1594443727	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	20	1594443781	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+20	34	1594443781	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	17	1594443797	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+17	28	1594443797	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	17	1594446223	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+18	26	1594446223	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	21	1594447481	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+21	31	1594447481	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e
+0	20	1594447729	CMakeFiles/hello-jni.dir/hello-jni.c.o	65d4e89eac71b339
+20	34	1594447729	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/arm64-v8a/libhello-jni.so	ebb4eba4703d0f8e

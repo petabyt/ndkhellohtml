@@ -1,0 +1,22 @@
+# ninja log v5
+0	92	1594442816	CMakeFiles/hello-jni.dir/hello-jni.c.o	cf8e870eed41b071
+92	120	1594442816	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	828c897713075735
+0	16	1594442970	build.ninja	45f9471216e46f18
+0	32	1594442970	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+33	46	1594442970	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	39	1594443688	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+39	52	1594443688	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	37	1594443701	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+37	49	1594443701	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	32	1594443727	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+32	41	1594443727	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	34	1594443781	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+34	45	1594443781	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	28	1594443797	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+28	37	1594443797	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	35	1594446223	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+35	45	1594446223	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	32	1594447481	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+32	45	1594447481	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab
+0	29	1594447729	CMakeFiles/hello-jni.dir/hello-jni.c.o	d5126bc2275184b8
+29	37	1594447729	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/armeabi-v7a/libhello-jni.so	b6eeda860c33caab

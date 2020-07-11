@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/release/x86",
+  "command": "/usr/lib/android-ndk/toolchains/llvm/prebuilt/linux-x86_64/bin/clang -target i686-none-linux-android -gcc-toolchain /usr/lib/android-ndk/toolchains/x86-4.9/prebuilt/linux-x86_64 --sysroot=/usr/lib/android-ndk/platforms/android-9/arch-x86 -Dhello_jni_EXPORTS  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles/hello-jni.dir/hello-jni.c.o   -c /home/daniel/Pulled/minimal-android-project/src/main/cpp/hello-jni.c",
+  "file": "/home/daniel/Pulled/minimal-android-project/src/main/cpp/hello-jni.c"
+}
+]

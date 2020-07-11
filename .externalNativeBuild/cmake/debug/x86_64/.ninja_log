@@ -1,0 +1,22 @@
+# ninja log v5
+0	118	1594442816	CMakeFiles/hello-jni.dir/hello-jni.c.o	8303c7ee17f1b9d0
+119	147	1594442816	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	c0af0e4fd0b6bc2c
+0	18	1594442970	build.ninja	bc0146564dba5a69
+0	25	1594442970	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+25	33	1594442970	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	28	1594443688	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+28	34	1594443688	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	20	1594443700	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+20	26	1594443700	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	16	1594443727	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+16	23	1594443727	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	19	1594443781	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+19	26	1594443781	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	24	1594443797	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+24	32	1594443797	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	22	1594446223	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+22	32	1594446223	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	19	1594447481	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+19	24	1594447481	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520
+0	18	1594447729	CMakeFiles/hello-jni.dir/hello-jni.c.o	1e4545d0e061587b
+18	24	1594447729	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86_64/libhello-jni.so	25264d7972332520

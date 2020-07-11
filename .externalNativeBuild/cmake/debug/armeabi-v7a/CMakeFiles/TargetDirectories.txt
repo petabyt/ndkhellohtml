@@ -1,0 +1,3 @@
+/home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/daniel/Pulled/minimal-android-project/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/hello-jni.dir

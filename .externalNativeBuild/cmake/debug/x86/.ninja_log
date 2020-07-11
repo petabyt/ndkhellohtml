@@ -1,0 +1,22 @@
+# ninja log v5
+1	88	1594442816	CMakeFiles/hello-jni.dir/hello-jni.c.o	ca55c36f18fcb328
+88	128	1594442816	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	75ed4fc6234c4264
+0	16	1594442970	build.ninja	b8f00e72728ad1a4
+0	24	1594442970	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+24	33	1594442970	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	20	1594443688	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+20	26	1594443688	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	23	1594443700	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+23	35	1594443700	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	20	1594443727	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+20	28	1594443727	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	16	1594443781	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+16	26	1594443781	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	25	1594443797	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+25	32	1594443797	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	21	1594446223	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+21	26	1594446223	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	22	1594447481	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+22	30	1594447481	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
+0	18	1594447729	CMakeFiles/hello-jni.dir/hello-jni.c.o	d56b325944ade3a6
+18	25	1594447729	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/debug/obj/x86/libhello-jni.so	d514b6698f3376a8
