@@ -20,3 +20,11 @@
 29	38	1594447482	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388
 0	25	1594447730	CMakeFiles/hello-jni.dir/hello-jni.c.o	db8e54b98470e6f8
 25	34	1594447730	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388
+1	27	1594448479	CMakeFiles/hello-jni.dir/hello-jni.c.o	db8e54b98470e6f8
+27	41	1594448479	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388
+0	30	1594450050	CMakeFiles/hello-jni.dir/hello-jni.c.o	db8e54b98470e6f8
+30	46	1594450050	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388
+0	29	1594450080	CMakeFiles/hello-jni.dir/hello-jni.c.o	db8e54b98470e6f8
+30	40	1594450080	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388
+0	28	1594450966	CMakeFiles/hello-jni.dir/hello-jni.c.o	db8e54b98470e6f8
+28	39	1594450966	/home/daniel/Pulled/minimal-android-project/build/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so	9fcffd121f62d388

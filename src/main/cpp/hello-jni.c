@@ -41,19 +41,36 @@ JNIEXPORT jstring JNICALL Java_com_example_myapp_MainActivity_stringFromJNI(JNIE
 }
 
 JNIEXPORT jintArray JNICALL Java_com_example_myapp_MainActivity_arrayTest(JNIEnv* env, jobject thiz){
-	jintArray result;
+	jobjectArray array;
 	int size = 5;
-	result = (*env)->NewIntArray(env, size);
-	if (result == NULL) {
-		return NULL; /* out of memory error thrown */
+	array = (*env)->NewObjectArray(
+		env,
+		size,
+		(*env)->FindClass(env, "java/lang/String"),
+		(*env)->NewStringUTF(env, "")
+	 );
+
+	if (array == NULL) {
+		return NULL;
 	}
 
-	jint fill[size];
+	char *testArray[5] = {
+		"<br>Woah...<br>",
+		"Is this C?..<br>",
+		"Wow..<br>",
+		"That's like..<br>",
+		"Friggin cool."
+	};
+
 	for (int i = 0; i < size; i++) {
-		fill[i] = 0;
+		(*env)->SetObjectArrayElement(
+			env,
+			array,
+			i,
+			(*env)->NewStringUTF(env, testArray[i])
+		);
 	}
 
-	// move from the temp structure to the java structure
-	(*env)->SetIntArrayRegion(env, result, 0, size, fill);
-	return result;
+	//(*env)->SetIntArrayRegion(env, result, 0, size, fill);
+	return array;
 }

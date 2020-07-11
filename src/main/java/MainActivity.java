@@ -7,6 +7,7 @@ import android.webkit.WebSettings;
 import android.widget.TextView;
 import android.webkit.WebView;
 import android.webkit.JavascriptInterface;
+import android.text.TextUtils;
 
 public class MainActivity extends Activity
 {
@@ -33,12 +34,12 @@ public class MainActivity extends Activity
 	public class backend {
 		@JavascriptInterface
 		public String stringStuffs() {
-			return stringFromJNI();
+			return TextUtils.join(", ", arrayTest());
 		}
 	}
 
-	public native String  stringFromJNI();
-	public native String  unimplementedStringFromJNI();
+	public native String stringFromJNI();
+	public native String[] arrayTest();
 
 	static {
         System.loadLibrary("hello-jni");
